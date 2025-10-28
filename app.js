@@ -9,3 +9,8 @@ const login = (user) => {
 const register = (user) => {
     return {user, token};
 };
+
+
+const getMe = (token) => {
+    return user;
+};
