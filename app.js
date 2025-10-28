@@ -14,5 +14,5 @@ const register = (user) => {
 const PI = 3.14;
 
 const calc = (PI) => {
-    return {PI, PI*2};
+    return {PI, token};
 };
