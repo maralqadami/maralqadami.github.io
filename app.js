@@ -11,6 +11,8 @@ const register = (user) => {
 };
 
 
-const getMe = (token) => {
-    return user;
+const PI = 3.14;
+
+const calc = (PI) => {
+    return {PI, PI*2};
 };
